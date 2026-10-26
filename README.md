@@ -7,3 +7,4 @@ The repository also has a `homework` folder, where I share the task conditions, 
 
 ## Progress
 - [x] Install the tools (Python, VSCodium, Git)
+- [ ] 
