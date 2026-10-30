@@ -12,3 +12,6 @@ The repository also has a `homework` folder, where I share the task conditions, 
   - [x] Running a program from the terminal `python ... .py`
   - [x] Comments `ctrl+/`
   - [x] Variables `a = 5`
+  - [x] f-strings (f"name: {name}")
+  - [x] Type conversion (int, float)
+  - [x] round()
