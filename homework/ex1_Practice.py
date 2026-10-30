@@ -1,5 +1,5 @@
 name = input("enter name: ")
-print("hello " + name + "!")
+print("hello" + name + "!")
 
 # ctrl + / = create a new comments
 # name - this is just the variable name
