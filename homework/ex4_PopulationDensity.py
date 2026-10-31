@@ -1,6 +1,6 @@
 try:
     country = input("enter the country: ")
-    population = int(input("enter the population: "))
+    population = float(input("enter the population: "))
     area = float(input("enter the area in km2: "))
 
     density = population/area
