@@ -12,12 +12,12 @@ The repository also has a `homework` folder, where I share the task conditions, 
   - [x] Running a program from the terminal `python ... .py`
   - [x] Comments `ctrl+/`
   - [x] Variables `a = 5`
-  - [x] f-strings (f"name: {name}")
-  - [x] Type conversion (int, float)
+  - [x] f-strings `f"name: {name}"`
+  - [x] Type conversion `int` `float`
   - [x] round()
 - [x] Error handling
   - [x] try / except
-  - [x] ValueError (e.g. int("abc"))
-  - [x] ZeroDivisionError (e.g. 5 / 0)
+  - [x] ValueError `e.g. int("abc")`
+  - [x] ZeroDivisionError `e.g. 5 / 0`
 - [ ] Arithmetic operators
-  - [x] Division /
+  - [x] Division `/`
