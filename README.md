@@ -23,4 +23,4 @@ The repository also has a `homework` folder, where I share the task conditions, 
   - [x] `+` `-` `*` `/`
   - [x] Assignment operators `+=` `-=` `*=` `/=`
   - [x] Increment and decrement `n += 1` `n -= 1`
-  - [ ] `//` `%` `**`
+  - [ ] `//` `%` `**` 
