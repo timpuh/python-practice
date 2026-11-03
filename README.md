@@ -15,9 +15,12 @@ The repository also has a `homework` folder, where I share the task conditions, 
   - [x] f-strings `f"name: {name}"`
   - [x] Type conversion `int` `float`
   - [x] round()
-- [x] Error handling
+- [x] Error handling `try / except`
   - [x] try / except
   - [x] ValueError `e.g. int("abc")`
   - [x] ZeroDivisionError `e.g. 5 / 0`
 - [ ] Arithmetic operators
-  - [x] Division `/`
+  - [x] `+` `-` `*` `/`
+  - [x] Assignment operators `+=` `-=` `*=` `/=`
+  - [x] Increment and decrement `n += 1` `n -= 1`
+  - [ ] `//` `%` `**`
