@@ -12,6 +12,6 @@ try:
     print(f"area: {area} km2")
     print(f"density: {round(density, 2)} people per km2")
 except ValueError:
-    print("⚠️please enter a number")
+    print("⚠️  please enter a number")
 except ZeroDivisionError:
-    print("⚠️area cannot be zero")
+    print("⚠️  area cannot be zero")

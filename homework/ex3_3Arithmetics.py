@@ -76,6 +76,6 @@ try:
     n /= d
     print(f"{c} /= {d}: {round(n, 2)}")    
 except ValueError:
-    print("⚠️please enter a number (use a dot, like 2.5)")
+    print("⚠️  please enter a number (use a dot, like 2.5)")
 except ZeroDivisionError:
-    print("⚠️division by zero is not allowed")
+    print("⚠️  division by zero is not allowed")
