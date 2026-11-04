@@ -30,3 +30,10 @@ The repository also has a `homework` folder, where I share the task conditions, 
   - [x] if / elif / else 
   - [ ] Comparison operators `<` `>` `>=` `<=`
   - [x] and / or
+- [ ] Loops 
+  - [x] for / range 
+  - [x] range with start and stop `range(1, 11)`
+  - [x] range with step `range(0, 36, 5)`
+  - [x] Negative step `range(35, -1, -5)`
+  - [x] Output in one line `print(n, end=" ")`
+  - [x] New line `print()`
