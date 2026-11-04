@@ -27,3 +27,6 @@ The repository also has a `homework` folder, where I share the task conditions, 
 - [ ] Conditions
   - [ ] match / case 
   - [ ] in case: or / def = `|` / `_`
+  - [x] if / elif / else 
+  - [ ] Comparison operators `<` `>` `>=` `<=`
+  - [x] and / or
