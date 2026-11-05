@@ -40,6 +40,5 @@ The repository also has a `homework` folder, where I share the task conditions, 
   - [ ] Colored text in terminal
     - [x] ANSI color codes `"\033[31m"`
     - [x] RESET code `"\033[0m"`
-    - [x] Constants `RESET = "\033[0m"`
+    - [ ] Apply color to text `print(f"{clr}line {n}{RESET}")`
 - [ ] Debugging
-  - [ ] Breakpoint and step by step
