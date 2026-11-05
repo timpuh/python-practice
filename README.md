@@ -37,3 +37,9 @@ The repository also has a `homework` folder, where I share the task conditions, 
   - [x] Negative step `range(35, -1, -5)`
   - [x] Output in one line `print(n, end=" ")`
   - [x] New line `print()`
+  - [ ] Colored text in terminal
+    - [x] ANSI color codes `"\033[31m"`
+    - [x] RESET code `"\033[0m"`
+    - [x] Constants `RESET = "\033[0m"`
+- [ ] Debugging
+  - [ ] Breakpoint and step by step
