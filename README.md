@@ -30,16 +30,17 @@ The repository also has a `homework` folder, where I share the task conditions, 
   - [x] if / elif / else 
   - [ ] Comparison operators `<` `>` `>=` `<=`
   - [x] and / or
+  - [ ] is equal?
 - [ ] Loops 
   - [x] for / range 
   - [x] range with start and stop `range(1, 11)`
   - [x] range with step `range(0, 36, 5)`
-  - [x] Negative step `range(35, -1, -5)`
-  - [x] Output in one line `print(n, end=" ")`
-  - [x] New line `print()`
+  - [x] negative step `range(35, -1, -5)`
+  - [x] output in one line `print(n, end=" ")`
+  - [x] new line `print()`
+  - [ ] while `n = 50` `while n >= 1:` `n = n - 1`
   - [ ] Colored text in terminal
     - [x] ANSI color codes `"\033[31m"`
     - [x] RESET code `"\033[0m"`
-    - [x] Constants `RESET = "\033[0m"`
+    - [x] Color, text, reset `print(f"{clr}line {n}{RESET}")`
 - [ ] Debugging
-  - [ ] Breakpoint and step by step
