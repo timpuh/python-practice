@@ -39,7 +39,7 @@ The repository also has a `homework` folder, where I share the task conditions, 
   - [x] output in one line `print(n, end=" ")`
   - [x] new line `print()`
   - [ ] while `n = 50` `while n >= 1:` `n = n - 1`
-  - [ ] Colored text in terminal
+- [ ] Colored text in terminal
     - [x] ANSI color codes `"\033[31m"`
     - [x] RESET code `"\033[0m"`
     - [x] Color, text, reset `print(f"{clr}line {n}{RESET}")`
