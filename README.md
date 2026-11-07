@@ -40,6 +40,7 @@ The repository also has a `homework` folder, where I share the task conditions, 
   - [x] new line `print()`
   - [ ] while `n = 50` `while n >= 1:` `n = n - 1`
   - [ ] i = short for "index" (just a standard loop counter)
+  - [ ] nested loop `for i in ...:` `for command in ...:`
 - [ ] Colored text in terminal
     - [x] ANSI color codes `"\033[31m"`
     - [x] RESET code `"\033[0m"`
@@ -50,3 +51,4 @@ The repository also has a `homework` folder, where I share the task conditions, 
   - [x] element by index `names[i]` (index starts from 0)
   - [x] list length `len(names)`
   - [x] loop over indexes `for i in range(len(names)):`
+  - [ ] loop over elements `for command in navigation:`
