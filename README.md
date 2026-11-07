@@ -44,3 +44,8 @@ The repository also has a `homework` folder, where I share the task conditions, 
     - [x] RESET code `"\033[0m"`
     - [x] Color, text, reset `print(f"{clr}line {n}{RESET}")`
 - [ ] Debugging
+- [ ] Lists
+  - [x] сreate a list `names = ["marina", "peta"]`
+  - [x] element by index `names[i]` (index starts from 0)
+  - [x] list length `len(names)`
+  - [x] loop over indexes `for i in range(len(names)):`
