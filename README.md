@@ -14,7 +14,8 @@ The repository also has a `homework` folder, where I share the task conditions, 
   - [x] variables `a = 5`
   - [x] f-strings `f"name: {name}"`
   - [x] type conversion `int()` `float()`
-  - [x] round(num, dig) `round(x, 2)`
+  - [x] rounding `round(number, ndigits)`
+
 - [x] Error handling `try / except`
   - [x] try / except
   - [x] ValueError `e.g. int("abc")`
