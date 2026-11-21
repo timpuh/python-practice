@@ -8,7 +8,7 @@ The repository also has a `homework` folder, where I share the task conditions, 
 ## Progress
 - [x] Install the tools (Python, VSCodium, Git)
 - [x] Run a Python file `python ... .py`
-
+<br>
 - [x] Basics
   - [x] input / output `input()` `print()`
   - [x] comments `ctrl+/`
