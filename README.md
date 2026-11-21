@@ -30,7 +30,8 @@ The repository also has a `homework` folder, where I share the task conditions, 
   - [ ] remainder `%` 
 
 - [ ] Conditions
-  - [x] `if:` `elif:` `else:`
+  - [ ] `if:` `elif:` `else:`
+  - [ ] compare values `==` `!=` `<` `>` `>=` `<=`
   - [ ] match / case 
   - [ ] in case: or / def = `|` / `_`
   - [x] Comparison operators `<` `>` `>=` `<=` `!=`
