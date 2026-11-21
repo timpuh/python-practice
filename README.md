@@ -10,10 +10,10 @@ The repository also has a `homework` folder, where I share the task conditions, 
 - [x] Run a Python file `python ... .py`
 - [x] Basics
   - [x] input / output `input()` `print()`
-  - [x] Comments `ctrl+/`
-  - [x] Variables `a = 5`
+  - [x] comments `ctrl+/`
+  - [x] variables `a = 5`
   - [x] f-strings `f"name: {name}"`
-  - [x] Type conversion `int` `float`
+  - [x] type conversion `int()` `float()`
   - [x] round(num, dig) `round(x, 2)`
 - [x] Error handling `try / except`
   - [x] try / except
