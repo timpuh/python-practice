@@ -32,9 +32,9 @@ The repository also has a `homework` folder, where I share the task conditions, 
 - [ ] Conditions
   - [ ] `if:` `elif:` `else:`
   - [ ] compare values `==` `!=` `<` `>` `>=` `<=`
+  - [ ] combine conditions `and` `or`
   - [ ] match / case 
   - [ ] in case: or / def = `|` / `_`
-  - [x] and / or
   
 - [ ] Loops 
   - [x] for / range 
