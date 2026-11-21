@@ -9,7 +9,7 @@ The repository also has a `homework` folder, where I share the task conditions, 
 - [x] Install the tools (Python, VSCodium, Git)
 - [x] Run a Python file `python ... .py`
 - [x] Basics
-  - [x] input and output `input()` `print()`
+  - [x] input / output `input()` `print()`
   - [x] Comments `ctrl+/`
   - [x] Variables `a = 5`
   - [x] f-strings `f"name: {name}"`
