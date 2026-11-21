@@ -17,10 +17,11 @@ The repository also has a `homework` folder, where I share the task conditions, 
   - [x] type conversion `int()` `float()`
   - [x] rounding `round(number, ndigits)`
 
-- [x] Error handling `try / except`
-  - [x] try / except
+- [x] Error handling 
+  - [x] catching errors `try` `except`
   - [x] ValueError `e.g. int("abc")`
   - [x] ZeroDivisionError `e.g. 5 / 0`
+  
 - [ ] Arithmetic operators
   - [x] `+` `-` `*` `/`
   - [x] Assignment operators `+=` `-=` `*=` `/=`
