@@ -12,10 +12,12 @@ The repository also has a `homework` folder, where I share the task conditions, 
 - [ ] Basics
   - [x] input / output `input()` `print()`
   - [x] comments `# ...`
+  - [ ] new line `print()`
   - [x] variables `a = 5`
   - [ ] f-strings `f"name: {name}"`
   - [ ] type conversion `int()` `float()`
   - [ ] rounding `round(number, ndigits)`
+  - [x] new line `print()`
 
 - [ ] Error handling 
   - [ ] catching errors `try:` `except:`
@@ -37,20 +39,17 @@ The repository also has a `homework` folder, where I share the task conditions, 
   - [X] compare values `==` `!=` `<` `>` `>=` `<=`
   
 - [ ] Loops 
-  - [x] for / range 
-  - [x] range with start and stop `range(1, 11)`
-  - [x] range with step `range(0, 36, 5)`
-  - [x] negative step `range(35, -1, -5)`
-  - [x] output in one line `print(n, end=" ")`
-  - [x] new line `print()`
-  - [ ] while `n = 50` `while n >= 1:` `n = n - 1`
-  - [ ] i = short for "index" (just a standard loop counter)
-  - [ ] nested loop `for i in ...:` `for command in ...:`
+  - [x] repeat a set number of times `for n in range(10):`
+  - [x] start and stop `range(1, 11)`
+  - [x] step `range(0, 36, 5)`
+  - [x] countdown `range(35, -1, -5)`
+  - [ ] print in one line `print(n, end=" ")`
+  - [ ] repeat while the condition is true `while n >= 1:` 
   
 - [ ] Colored text in terminal
-    - [x] ANSI color codes `"\033[31m"`
-    - [x] RESET code `"\033[0m"`
-    - [x] Color, text, reset `print(f"{clr}line {n}{RESET}")`
+    - [ ] ANSI color codes `"\033[31m"`
+    - [ ] RESET code `"\033[0m"`
+    - [ ] Color, text, reset `print(f"{clr}line {n}{RESET}")`
 
 - [ ] Lists
   - [x] сreate a list `names = ["marina", "peta"]`
