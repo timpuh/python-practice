@@ -26,14 +26,16 @@ The repository also has a `homework` folder, where I share the task conditions, 
   - [x] `+` `-` `*` `/`
   - [x] Assignment operators `+=` `-=` `*=` `/=`
   - [x] Increment and decrement `n += 1` `n -= 1`
-  - [ ] `//` `%` `**` 
+  - [ ] `//` `%` `**`
+
 - [ ] Conditions
   - [ ] match / case 
   - [ ] in case: or / def = `|` / `_`
   - [x] if / elif / else 
   - [x] Comparison operators `<` `>` `>=` `<=` `!=`
   - [x] and / or
-  - [ ] is equal? `==` 
+  - [ ] is equal? `==`
+  
 - [ ] Loops 
   - [x] for / range 
   - [x] range with start and stop `range(1, 11)`
@@ -44,11 +46,14 @@ The repository also has a `homework` folder, where I share the task conditions, 
   - [ ] while `n = 50` `while n >= 1:` `n = n - 1`
   - [ ] i = short for "index" (just a standard loop counter)
   - [ ] nested loop `for i in ...:` `for command in ...:`
+  
 - [ ] Colored text in terminal
     - [x] ANSI color codes `"\033[31m"`
     - [x] RESET code `"\033[0m"`
     - [x] Color, text, reset `print(f"{clr}line {n}{RESET}")`
+  
 - [ ] Debugging
+
 - [ ] Lists
   - [x] сreate a list `names = ["marina", "peta"]`
   - [x] element by index `names[i]` (index starts from 0)
