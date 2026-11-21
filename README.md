@@ -23,10 +23,11 @@ The repository also has a `homework` folder, where I share the task conditions, 
   - [ ] zero division error `except ZeroDivisionError:`
   
 - [ ] Arithmetic operators
-  - [x] `+` `-` `*` `/`
-  - [x] Assignment operators `+=` `-=` `*=` `/=`
-  - [x] Increment and decrement `n += 1` `n -= 1`
-  - [ ] `//` `%` `**`
+  - [x] basic operators `+` `-` `*` `/`
+  - [x] assignment operators `+=` `-=` `*=` `/=`
+  - [ ] increment and decrement `n += 1` `n -= 1`
+  - [ ] floor division and power `//` `**`
+  - [ ] remainder `%` 
 
 - [ ] Conditions
   - [ ] match / case 
