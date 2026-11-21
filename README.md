@@ -32,7 +32,7 @@ The repository also has a `homework` folder, where I share the task conditions, 
 - [ ] Conditions
   - [ ] choose by condition `if:` `elif:` `else:`
   - [ ] choose by value `match:` `case:`
-  - [ ] in case: or / def = `|` / `_`
+        in case: or / def = `|` / `_`
   - [ ] combine conditions `and` `or`
   - [ ] compare values `==` `!=` `<` `>` `>=` `<=`
   
