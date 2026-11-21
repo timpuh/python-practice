@@ -10,7 +10,6 @@ The repository also has a `homework` folder, where I share the task conditions, 
 - [x] Run a Python file `python ... .py`
 
 <br>
-
 - [x] Basics
   - [x] input / output `input()` `print()`
   - [x] comments `ctrl+/`
