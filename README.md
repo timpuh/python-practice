@@ -30,11 +30,11 @@ The repository also has a `homework` folder, where I share the task conditions, 
   - [ ] remainder `%` 
 
 - [ ] Conditions
-  - [ ] `if:` `elif:` `else:`
-  - [ ] compare values `==` `!=` `<` `>` `>=` `<=`
-  - [ ] combine conditions `and` `or`
-  - [ ] match / case 
+  - [ ] choose by condition `if:` `elif:` `else:`
+  - [ ] choose by value `match:` `case:`
   - [ ] in case: or / def = `|` / `_`
+  - [ ] combine conditions `and` `or`
+  - [ ] compare values `==` `!=` `<` `>` `>=` `<=`
   
 - [ ] Loops 
   - [x] for / range 
