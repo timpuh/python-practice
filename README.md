@@ -9,18 +9,18 @@ The repository also has a `homework` folder, where I share the task conditions, 
 - [x] Install the tools (Python, VSCodium, Git)
 - [x] Run a Python file `python ... .py`
 
-- [x] Basics
+- [ ] Basics
   - [x] input / output `input()` `print()`
-  - [x] comments `ctrl+/`
+  - [x] comments `# ...`
   - [x] variables `a = 5`
-  - [x] f-strings `f"name: {name}"`
-  - [x] type conversion `int()` `float()`
-  - [x] rounding `round(number, ndigits)`
+  - [ ] f-strings `f"name: {name}"`
+  - [ ] type conversion `int()` `float()`
+  - [ ] rounding `round(number, ndigits)`
 
 - [x] Error handling 
-  - [x] catching errors `try` `except`
-  - [x] ValueError `e.g. int("abc")`
-  - [x] ZeroDivisionError `e.g. 5 / 0`
+  - [ ] catching errors `try:` `except:`
+  - [ ] value error `except ValueError:`
+  - [ ] zero division error `except ZeroDivisionError:`
   
 - [ ] Arithmetic operators
   - [x] `+` `-` `*` `/`
