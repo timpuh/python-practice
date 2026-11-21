@@ -51,8 +51,6 @@ The repository also has a `homework` folder, where I share the task conditions, 
     - [x] ANSI color codes `"\033[31m"`
     - [x] RESET code `"\033[0m"`
     - [x] Color, text, reset `print(f"{clr}line {n}{RESET}")`
-  
-- [ ] Debugging
 
 - [ ] Lists
   - [x] сreate a list `names = ["marina", "peta"]`
@@ -60,3 +58,5 @@ The repository also has a `homework` folder, where I share the task conditions, 
   - [x] list length `len(names)`
   - [x] loop over indexes `for i in range(len(names)):`
   - [ ] loop over elements `for command in navigation:`
+  
+- [ ] Debugging
