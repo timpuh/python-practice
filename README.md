@@ -17,7 +17,7 @@ The repository also has a `homework` folder, where I share the task conditions, 
   - [ ] type conversion `int()` `float()`
   - [ ] rounding `round(number, ndigits)`
 
-- [x] Error handling 
+- [ ] Error handling 
   - [ ] catching errors `try:` `except:`
   - [ ] value error `except ValueError:`
   - [ ] zero division error `except ZeroDivisionError:`
