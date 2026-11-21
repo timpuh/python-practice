@@ -30,9 +30,9 @@ The repository also has a `homework` folder, where I share the task conditions, 
   - [ ] remainder `%` 
 
 - [ ] Conditions
+  - [x] `if:` `elif:` `else:`
   - [ ] match / case 
   - [ ] in case: or / def = `|` / `_`
-  - [x] if / elif / else 
   - [x] Comparison operators `<` `>` `>=` `<=` `!=`
   - [x] and / or
   - [ ] is equal? `==`
