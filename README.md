@@ -53,9 +53,9 @@ The repository also has a `homework` folder, where I share the task conditions, 
 
 - [ ] Lists
   - [x] сreate a list `names = ["apple", "banana"]`
-  - [ ] element by index (index starts from 0) `names[i]` 
-  - [ ] count elements `len(names)`
-  - [ ] loop over indexes `for i in range(len(names)):`
-  - [ ] loop over elements `for name in names:`
+  - [ ] element by index (index starts from 0) `fruits[i]` 
+  - [ ] count elements `len(fruits)`
+  - [ ] loop over indexes `for i in range(len(fruits)):`
+  - [ ] loop over elements `for fruit in fruits:`
   
 - [ ] Debugging
