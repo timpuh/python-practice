@@ -10,7 +10,7 @@ The repository also has a `homework` folder, where I share the task conditions, 
 
 - [x] VSCodium hotkeys
   - [x] comment `Ctrl+/`
-  - [x] terminal ` Ctrl+` `
+  - [x] terminal `` Ctrl+` ``
   - [x] extensions `Ctrl+Shift+X`
   - [x] shortcuts `Ctrl+K Ctrl+S`
      
