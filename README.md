@@ -7,6 +7,13 @@ The repository also has a `homework` folder, where I share the task conditions, 
 
 ## Progress
 - [x] Install the tools (Python, VSCodium, Git)
+
+- [x] VSCodium hotkeys
+  - [x] comment `Ctrl+/`
+  - [x] terminal ` Ctrl+` `
+  - [x] extensions `Ctrl+Shift+X`
+  - [x] shortcuts `Ctrl+K Ctrl+S`
+     
 - [x] Run a Python file `python ... .py`
 
 - [ ] Basics
