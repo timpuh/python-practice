@@ -52,7 +52,7 @@ The repository also has a `homework` folder, where I share the task conditions, 
     - [ ] Color, text, reset `print(f"{clr}line {n}{RESET}")`
 
 - [ ] Lists
-  - [x] сreate a list `names = ["apple", "banana"]`
+  - [x] сreate a list `fruits = ["apple", "banana"]`
   - [ ] element by index (index starts from 0) `fruits[i]` 
   - [ ] count elements `len(fruits)`
   - [ ] loop over indexes `for i in range(len(fruits)):`
